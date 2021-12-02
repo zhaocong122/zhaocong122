@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄🌱⚡📫🤔👯�🔭 I’m currently learning ...
+- 😄🌱⚡📫🤔👯� I’m currently learning ...
+### 🔭github-contribution
 ![](https://raw.githubusercontent.com/zhaocong122/zhaocong122/main/assets/github-contribution-grid-snake.svg)
 ### 🛠 Tech Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
