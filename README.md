@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 
 
-
-
 ![snk](https://raw.githubusercontent.com/zhaocong122/zhaocong122/output/github-contribution-grid-snake.svg)
 
 
