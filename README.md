@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/zhaocong122/zhaocong122/output/github-contribution-grid-snake.svg)
 
-_generated with [zhaocong122/snk](https://github.com/zhaocong122/snk)_
 
 <!-- ![snk](https://raw.githubusercontent.com/zhaocong122/zhaocong122/output/github-contribution-grid-snake.svg) -->
 
