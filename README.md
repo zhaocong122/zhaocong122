@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/zhaocong122/zhaocong122/output/github-contribution-grid-snake.svg)
 
 
-<!-- ![snk](https://raw.githubusercontent.com/zhaocong122/zhaocong122/output/github-contribution-grid-snake.svg) -->
+![snk](https://raw.githubusercontent.com/zhaocong122/zhaocong122/output/github-contribution-grid-snake.svg)
+
 
 <!-- ![](https://raw.githubusercontent.com/zhaocong122/zhaocong122/main/assets/github-contribution-grid-snake.svg) -->
 ### ⚡Tech Tools
