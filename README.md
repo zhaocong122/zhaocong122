@@ -20,14 +20,10 @@ Here are some ideas to get you started:
 
 [![zhaocong122's github stats](https://github-readme-stats.vercel.app/api?username=zhaocong122&theme=white)](https://github.com/zhaocong122/github-readme-stats)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/zhaocong122/zhaocong122/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-<!-- ![](https://raw.githubusercontent.com/zhaocong122/zhaocong122/main/assets/github-contribution-grid-snake.svg) -->
 ### ⚡Tech Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=%234FC08D)
