@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 
 
 
-![snk](https://raw.githubusercontent.com/zhaocong122/zhaocong122/output/github-contribution-grid-snake.svg)
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <!-- ![](https://raw.githubusercontent.com/zhaocong122/zhaocong122/main/assets/github-contribution-grid-snake.svg) -->
 ### ⚡Tech Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
