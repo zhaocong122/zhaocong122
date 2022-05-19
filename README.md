@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![zhaocong122's github stats](https://github-readme-stats.vercel.app/api?username=zhaocong122&theme=white)](https://github.com/zhaocong122/github-readme-stats)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 
