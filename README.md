@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 😄🌱📫I’m currently learning ...🤔👯� 
 ### 🔭github-contribution
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2
+
+
 ![github-user-contribution](https://user-images.githubusercontent.com/29866501/169253217-d621f532-a5be-4228-9965-03c1b14f9164.svg)
 
 [![zhaocong122's github stats](https://github-readme-stats.vercel.app/api?username=zhaocong122&theme=white)](https://github.com/zhaocong122/github-readme-stats)
